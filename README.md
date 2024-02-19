@@ -6,10 +6,13 @@ This profile is the code of our paper.
 The dataset we processed can be downloaded at [GoogleDrive](https://drive.google.com/file/d/1xYgXv8n1F8CBSNmYs5f3GfdJmrWHpxDJ/view?usp=drive_link)
 
 ## Environment
-* easydict
-* unidecode
-* tensorboard
-* transformers
+* Python (>= 3.7)
+* PyTorch (>= 1.6.0)
+* numpy (>= 1.19.2)
+* Transformers (>= 4.21.3)
+* easydict (>= 1.10)
+* unidecode (>= 1.3.6)
+* tensorboard (>= 2.11.0)
 
 ## Cite
 Please consider citing this paper if you use the code or data from our work. Thanks a lot ~
