@@ -15,7 +15,7 @@ The dataset we processed can be downloaded at [GoogleDrive](https://drive.google
 * tensorboard = 2.11.0
 
 ## Cite
-Please consider citing this paper if you use the code or data from our work. Thanks a lot ~
+Please consider citing this paper if you find the code or data useful. Thanks a lot ~
 
 
 ```bigquery
