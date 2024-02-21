@@ -17,6 +17,7 @@ The dataset we processed can be downloaded at [GoogleDrive](https://drive.google
 ## Cite
 Please consider citing this paper if you use the code or data from our work. Thanks a lot ~
 
+
 ```bigquery
 @misc{wang2024semantic,
       title={Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment}, 
