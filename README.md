@@ -19,12 +19,10 @@ Please consider citing this paper if you find the code or data useful. Thanks a 
 
 
 ```bigquery
-@misc{wang2024semantic,
-      title={Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment}, 
-      author={Yuanyi Wang and Haifeng Sun and Jiabo Wang and Jingyu Wang and Wei Tang and Qi Qi and Shaoling Sun and Jianxin Liao},
-      year={2024},
-      eprint={2401.17859},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR}
+@article{wang2024towards,
+  title={Towards semantic consistency: Dirichlet energy driven robust multi-modal entity alignment},
+  author={Wang, Yuanyi and Sun, Haifeng and Wang, Jiabo and Wang, Jingyu and Tang, Wei and Qi, Qi and Sun, Shaoling and Liao, Jianxin},
+  journal={arXiv preprint arXiv:2401.17859},
+  year={2024}
 }
 ```
