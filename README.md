@@ -1,5 +1,5 @@
 # DESAlign
-Paper for 2024
+This paper has been accepted by ICDE 2024.
 
 This profile is the code of our paper.
 
