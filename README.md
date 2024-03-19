@@ -1,5 +1,5 @@
 # DESAlign
-This profile is the code of our paper: ["Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment"](https://arxiv.org/abs/2401.17859), which has been accepted by ICDE 2024.
+This repository is the code of our paper: ["Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment"](https://arxiv.org/abs/2401.17859), which has been accepted by ICDE 2024.
 
 The dataset we processed can be downloaded at [GoogleDrive](https://drive.google.com/file/d/1xYgXv8n1F8CBSNmYs5f3GfdJmrWHpxDJ/view?usp=drive_link)
 
